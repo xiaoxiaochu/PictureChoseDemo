@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="user_info_message_notice">#E35B5A</color>
+
+
+    <color name="white40">#40FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="lightblue">#0083FF</color>
+
+    <color name="black_alpha_16">#10000000</color>
+    <color name="text_title_color">#111111</color>
+    <color name="text_desc_color">#6a6a6a</color>
+
+
+    <color name="list_divider_color">#c8c7cc</color>
+    <color name="bg_press">#ebebeb</color>
+
+    <color name="black_alpha_80">#50000000</color>
+
+    <color name="black_alpha_240">#f0000000</color>
+
+    <color name="actionbar_background">@color/main_green</color>
+    <color name="main_green">#24cf5f</color>
+</resources>
